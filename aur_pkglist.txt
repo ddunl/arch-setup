@@ -1,12 +1,12 @@
-gotop 4.1.1-1
-i3lock-color 2.13.c.3-1
-libglade 2.6.4-7
-libxft-bgra 2.3.3.r7.7808631e-1
-neovim-nightly-bin 0.5.0+dev+1227+gb518b9076-1
-pygtk 2.24.0-12
-python2-distutils-extra 2.39-5
-python2-gobject2 2.28.7-6
-spotify-tui-bin 0.24.0-1
-ttf-jetbrains-mono 2.225-1ttf-jetbrains-mono 2.225-1
-yay 10.2.2-1
-zoom 5.6.4-1
+gotop
+i3lock-color
+libglade
+libxft-bgra
+neovim-nightly-bin
+pygtk
+python2-distutils-extra
+python2-gobject2
+spotify-tui-bin
+ttf-jetbrains-mono
+yay
+zoom
